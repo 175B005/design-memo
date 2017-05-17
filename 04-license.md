@@ -75,7 +75,7 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 - 氏名表示権
 - 同一性保持権
 
-これらは、放棄したり、譲渡することはできない。
+これらは、<b>放棄したり、譲渡する</b>ことはできない。
 下請けは大体放棄させられる。
 
 ### 著作権
@@ -121,6 +121,7 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 ### クリエイティブコモンズ
 - [福井健策　作品を広めるしくみ ～噂の「CCマーク」を使ってみる](https://japan.cnet.com/article/35052690/)
 - [Taichi FURUHASHI 情報社会論#02 "CC概念の図化"](https://speakerdeck.com/mapconcierge/qing-bao-she-hui-lun-number-02-ccgai-nian-falsetu-hua)
+マークがある。初音ミクとか同人とかパロディとかの（一定範囲の許可）
 
 みんなで使おうよ、の精神。Webサービスや、インディーゲーム業界では大きな力を持っている。
 
@@ -133,7 +134,10 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 # 著作権を守らなかったら
 - [弁護士法人デイライト法律事務所 東京オリンピックのロゴ問題〜商標権について](http://www.daylight-law.jp/1407/1407009/)
 - [碓井真史 コピペ・代行で済まそうとしている学生さんへ：引用・転載・剽窃とは・その違いとは：著作権法と私文書偽造](https://news.yahoo.co.jp/byline/usuimafumi/20140322-00033799/)
+↑参考になる。
 - [立教大学図書館 印象・著作権](http://library.rikkyo.ac.jp/learning/reportguide/citation/)
+親告罪だから、言われなきゃ悪くないｗｗｗ
+非親告罪　殺人、強盗とか。
 
 # CC以外の開発者フレンドリーな代表的なライセンス
 ## MITライセンス
@@ -155,6 +159,8 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 - 禁止されていることは？
 - ライセンスの条件(費用、著作者表示など)
 
+会社とかコンサートとか契約では譲渡できない著作権は行使しないと契約させられる。
+著作者に対し敬意を評し、不当な利益を得ない。という精神。
 ## Tyrano Script
 
 ## イラストや
